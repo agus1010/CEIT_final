@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6c8c54d0d9c7dda4d817291a743b5c78, type: 3}
+  m_Name: Mud
+  m_EditorClassIdentifier: 
+  UID: M-SOIL-0005
+  ItemName: Barro
+  Thumbnail: {fileID: 21300000, guid: 75a6ceeac3559d74a97828c51c981bff, type: 3}
+  materials:
+  - {fileID: 2100000, guid: cf2fcccb0cfb6f749a0146bde12b8316, type: 2}

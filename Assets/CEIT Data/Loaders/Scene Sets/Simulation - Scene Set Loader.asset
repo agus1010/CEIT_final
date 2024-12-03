@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9d7c923c84f0ed848ae935e48b808b83, type: 3}
+  m_Name: Simulation - Scene Set Loader
+  m_EditorClassIdentifier: 
+  atlasProvider: {fileID: 11400000, guid: 97cf074788c29ec46b2ed39ec412781d, type: 2}
+  set: 00000000040000000500000006000000
+  activeSceneInSet: 2
+  eventsChannel: {fileID: 11400000, guid: 828982b076dd7754494e7e043c1382d4, type: 2}
+  debug: 0

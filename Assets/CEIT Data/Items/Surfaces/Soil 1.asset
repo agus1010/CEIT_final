@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6c8c54d0d9c7dda4d817291a743b5c78, type: 3}
+  m_Name: Soil 1
+  m_EditorClassIdentifier: 
+  UID: M-SOIL-0007
+  ItemName: Tierra 1
+  Thumbnail: {fileID: 21300000, guid: 6b05eecd932626d44a95baca11ddfc59, type: 3}
+  materials:
+  - {fileID: 2100000, guid: f6c5a4d4c3d724b4ea3d49f7fd767c32, type: 2}

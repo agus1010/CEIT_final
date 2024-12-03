@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0fb378ef852a1af48b33c5840fb6739a, type: 3}
+  m_Name: Apply Surface
+  m_EditorClassIdentifier: 
+  UID: M-INTERACTION-0003
+  ItemName: Aplicar Superficie
+  Thumbnail: {fileID: 21300000, guid: 8b425edb3a62c144a8abab12696eed9c, type: 3}
+  BaseColor: {r: 0.7176471, g: 0.08235294, b: 0.2509804, a: 1}
+  Palette: {fileID: 11400000, guid: a4b51fb248afbbe45b37a6da7be5fed1, type: 2}
+  Behaviour: {fileID: 11400000, guid: 8101b04eb62af0b4191f76277154418a, type: 2}
+  actionsDescriptor: {fileID: 11400000, guid: 7fba02fc2e2ab754d8059da6a49e7862, type: 2}

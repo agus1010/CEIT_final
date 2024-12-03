@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 3c7555be71e9d6e4ea8b816307a6f126
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - distanceMeasurementPrefab: {fileID: 233890699360276854, guid: 3531cfaa5a68d854b92a22af70c960ef,
+      type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

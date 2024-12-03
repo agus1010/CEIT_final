@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0fb378ef852a1af48b33c5840fb6739a, type: 3}
+  m_Name: Select Spawn Point Interaction
+  m_EditorClassIdentifier: 
+  UID: M-INTERACTION-0000
+  ItemName: Select Spawn Point
+  Thumbnail: {fileID: 0}
+  BaseColor: {r: 0.909804, g: 0.25490198, b: 0.09411766, a: 1}
+  Palette: {fileID: 11400000, guid: c3a0c26b2d3c9a541a73f69b24af867c, type: 2}
+  Behaviour: {fileID: 11400000, guid: 9c169939b7ee5514e989d00f5b38543e, type: 2}
+  actionsDescriptor: {fileID: 11400000, guid: 43201e569edf82349a6446aa02584cf4, type: 2}

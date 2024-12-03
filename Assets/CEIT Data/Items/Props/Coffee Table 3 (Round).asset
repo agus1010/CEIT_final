@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dca4164ca094896478f2a94ff5adaaf2, type: 3}
+  m_Name: Coffee Table 3 (Round)
+  m_EditorClassIdentifier: 
+  UID: P-FURNITURE-0016
+  ItemName: Mesa Ratona 3
+  Thumbnail: {fileID: 21300000, guid: daf13ab3c476ee74ebe45ca310b3d8d8, type: 3}
+  prefab: {fileID: 1031105837616109963, guid: 6b7340a9e26e36b44b8b20ca4560eff4, type: 3}
+  usesGravity: 1
+  collidesWhenPlaced: 1
+  yExtentIsZero: 0

@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2ed69da42f3935442a9c479d13ee1e97, type: 3}
+  m_Name: Cobblestone
+  m_EditorClassIdentifier: 
+  UID: M-TILES-0000
+  ItemName: Adoquines
+  Thumbnail: {fileID: 21300000, guid: ca528c7b10d48f74f8e68c19df824400, type: 3}
+  materials:
+  - {fileID: 2100000, guid: 506f0972e6019434fa2ab0c86135f27a, type: 2}

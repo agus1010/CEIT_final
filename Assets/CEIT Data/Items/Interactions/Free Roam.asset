@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0fb378ef852a1af48b33c5840fb6739a, type: 3}
+  m_Name: Free Roam
+  m_EditorClassIdentifier: 
+  UID: M-INTERACTION-0000
+  ItemName: "Exploraci\xF3n Libre"
+  Thumbnail: {fileID: 21300000, guid: 5e053777cf6c36b4db03c0aa5183cc42, type: 3}
+  BaseColor: {r: 0.20392159, g: 0.59607846, b: 0.8588236, a: 1}
+  Palette: {fileID: 0}
+  Behaviour: {fileID: 11400000, guid: dfcba81fe4b0a1d458122529847cf24d, type: 2}
+  actionsDescriptor: {fileID: 11400000, guid: 683129ff9e03bc54d9f4c0b16b0ee8d6, type: 2}

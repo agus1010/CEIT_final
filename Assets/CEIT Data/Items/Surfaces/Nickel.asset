@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7774a3373b5f98e42933a3d6b8795493, type: 3}
+  m_Name: Nickel
+  m_EditorClassIdentifier: 
+  UID: M-METAL-0006
+  ItemName: "N\xEDquel"
+  Thumbnail: {fileID: 21300000, guid: 8ac06c4fd58fcf1478f0899b7dac9af1, type: 3}
+  materials:
+  - {fileID: 2100000, guid: 027aec04d2db0d941b63a768ca09a347, type: 2}

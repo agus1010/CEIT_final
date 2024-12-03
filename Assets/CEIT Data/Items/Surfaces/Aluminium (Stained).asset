@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7774a3373b5f98e42933a3d6b8795493, type: 3}
+  m_Name: Aluminium (Stained)
+  m_EditorClassIdentifier: 
+  UID: M-METAL-0000
+  ItemName: Aluminio Sucio
+  Thumbnail: {fileID: 21300000, guid: 7ccb1bc6465435d4dbdadc493acd991a, type: 3}
+  materials:
+  - {fileID: 2100000, guid: 4f75b29101db52948b5b1462f75a6b71, type: 2}

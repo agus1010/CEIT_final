@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9cd9c5257e0136044a1f5c22d5cd09cc, type: 3}
+  m_Name: Wood Flooring 5
+  m_EditorClassIdentifier: 
+  UID: M-WOOD-0014
+  ItemName: Parquet 5
+  Thumbnail: {fileID: 21300000, guid: 25fcf8ec38fdf9e4f86a474322f175bd, type: 3}
+  materials:
+  - {fileID: 2100000, guid: fa5ff0053ca670d498f3c528b6d92df9, type: 2}

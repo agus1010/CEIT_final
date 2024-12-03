@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a4c9a152663bec14fabb5de39b20140c, type: 3}
+  m_Name: Curtain
+  m_EditorClassIdentifier: 
+  UID: P-DECORATION-0002
+  ItemName: Cortina
+  Thumbnail: {fileID: 21300000, guid: 110174d7443c87748bb526bb2627b6bf, type: 3}
+  prefab: {fileID: 7303038989442069231, guid: 5d406aec69e4cb5448113f64088a17fa, type: 3}
+  usesGravity: 0
+  collidesWhenPlaced: 0
+  yExtentIsZero: 0

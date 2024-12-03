@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 17e0856ce0493cd45878b40a19d59c22, type: 3}
+  m_Name: Bamboo 2
+  m_EditorClassIdentifier: 
+  UID: P-PLANT-0001
+  ItemName: Bamboo 1
+  Thumbnail: {fileID: 21300000, guid: 59a92014764f52a4d92233dba1ef59ca, type: 3}
+  prefab: {fileID: 3099247124911024441, guid: d53926a3f25b5134bb72497ec67e7bf2, type: 3}
+  usesGravity: 0
+  collidesWhenPlaced: 0
+  yExtentIsZero: 1

@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 50d329841f3943749b5ed8d00e760d1d, type: 3}
+  m_Name: Global Sun Rotation System
+  m_EditorClassIdentifier: 
+  timeSystem: {fileID: 11400000, guid: 161567b610f9d0146bcdfae8838950a3, type: 2}
+  geoTranslationSystem: {fileID: 11400000, guid: 2c03a89dd6e7d184dbdf5e43f32ee9b9,
+    type: 2}
+  eventsChannel: {fileID: 11400000, guid: e29adc208a3a11a41ba7f3549436ea24, type: 2}

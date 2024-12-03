@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dca4164ca094896478f2a94ff5adaaf2, type: 3}
+  m_Name: Bed 2 Pieces
+  m_EditorClassIdentifier: 
+  UID: P-FURNITURE-0001
+  ItemName: Cama de 2 Plazas
+  Thumbnail: {fileID: 21300000, guid: c1fa0b7f303e9384195bb02fdb837130, type: 3}
+  prefab: {fileID: 7662570859765884554, guid: c3f64a8aa05892c46b9149e87f1f250e, type: 3}
+  usesGravity: 1
+  collidesWhenPlaced: 1

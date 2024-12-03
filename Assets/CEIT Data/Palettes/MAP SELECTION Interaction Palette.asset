@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 26765e4f80b28e54999f20ec872533ca, type: 3}
+  m_Name: MAP SELECTION Interaction Palette
+  m_EditorClassIdentifier: 
+  database: {fileID: 11400000, guid: 9b683df18896de344b6f91e74ba1388e, type: 2}
+  eventsChannel: {fileID: 11400000, guid: 14f9d0a8133b153468976a72b4ed7f89, type: 2}
+  innerPalettesLocked: 0

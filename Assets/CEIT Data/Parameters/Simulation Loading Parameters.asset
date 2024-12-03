@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 64b1a2d7a5e11704eb3f7ec3654cffb5, type: 3}
+  m_Name: Simulation Loading Parameters
+  m_EditorClassIdentifier: 
+  _options: {fileID: 11400000, guid: c4262fe1ffa98cb44991b74839ecb019, type: 2}
+  _addGround: 0
+  _groundHeight: 0
+  _centerMap: 0
+  _spawnPosition: {x: 0, y: 0, z: 0}
+  _addProps: 0

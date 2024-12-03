@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 27e3ee8b611cbf0459e89df3d899d469, type: 3}
+  m_Name: Global Scene Names Atlas Provider
+  m_EditorClassIdentifier: 
+  hardwareTypeProvider: {fileID: 11400000, guid: a9791d614dbd2e4429c05f3870851d52,
+    type: 2}
+  fpsAtlas: {fileID: 11400000, guid: 9afd62054f6ed3e4897f53509a56b08c, type: 2}
+  vrAtlas: {fileID: 11400000, guid: b3dbf31ca84524248b627a8de46ff525, type: 2}

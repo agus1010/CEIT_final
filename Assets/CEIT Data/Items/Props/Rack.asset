@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dca4164ca094896478f2a94ff5adaaf2, type: 3}
+  m_Name: Rack
+  m_EditorClassIdentifier: 
+  UID: P-FURNITURE-0013
+  ItemName: Rack
+  Thumbnail: {fileID: 21300000, guid: 8eb8af4a4b858804191060bfead7a925, type: 3}
+  prefab: {fileID: 4118289469403942644, guid: 6e4e44276c199e74db4ef2919524496f, type: 3}
+  usesGravity: 1
+  collidesWhenPlaced: 1

@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0fb378ef852a1af48b33c5840fb6739a, type: 3}
+  m_Name: Set Time And Orientation
+  m_EditorClassIdentifier: 
+  UID: M-INTERACTION-0005
+  ItemName: Mover el Sol
+  Thumbnail: {fileID: 21300000, guid: 8f624d583811bf44dbc548eda28204c7, type: 3}
+  BaseColor: {r: 0.9686275, g: 0.62352943, b: 0.121568635, a: 1}
+  Palette: {fileID: 0}
+  Behaviour: {fileID: 11400000, guid: bc54b6f423352ce479425466504b64e4, type: 2}
+  actionsDescriptor: {fileID: 11400000, guid: 139f6415998e55540b34674950d4c438, type: 2}
