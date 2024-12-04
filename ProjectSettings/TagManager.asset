@@ -1,0 +1,62 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - DistanceMeasurement
+  - Loading
+  - Map Selection
+  - Environment
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Prop Parent
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: World UI Model
+    uniqueID: 4222414525
+    locked: 0
+  - name: World UI Help Overlay
+    uniqueID: 3826188085
+    locked: 0
+  - name: Non Dominant Hand UI
+    uniqueID: 1173525589
+    locked: 0
+  - name: Dominant Hand Line Visual
+    uniqueID: 1160672191
+    locked: 0
+  - name: Dominant Hand UI
+    uniqueID: 2610297449
+    locked: 0
