@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7c7cd602e1d3ea240b0a0f411ce08a6c, type: 3}
+  m_Name: SetSpawnPoint
+  m_EditorClassIdentifier: 
+  Title: "\xBFD\xF3nde desea Aparecer?"
+  helpText: "Al presionar sobre el modelo o el suelo se mostrar\xE1 un pin de ubicaci\xF3n
+    que indica la posici\xF3n en la que aparecer\xE1 en el mapa. (Este paso es obligatorio).
+    \n"

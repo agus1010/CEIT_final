@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7c7cd602e1d3ea240b0a0f411ce08a6c, type: 3}
+  m_Name: SetUpGround
+  m_EditorClassIdentifier: 
+  Title: 'Configure el Suelo:'
+  helpText: "En caso de querer agregar un suelo al ingresar al mapa presione \"Agregar
+    Suelo\".  (No se preocupe, aunque no ponga uno no se caer\xE1 del mapa).\n\n\u2022\"Colocado
+    Autom\xE1tico\" agrega un suelo en el extremo inferior del modelo.\n\n\u2022\"Colocado
+    Libre\" permite agregar un suelo dentro de los l\xEDmites del modelo."

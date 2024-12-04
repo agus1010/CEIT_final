@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: b3d140a9c28e0e44e98479b1b53a5ea5
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - _defaultIcon: {fileID: 21300000, guid: 2405d0bf9d12fad4d8bad16da1bd8612, type: 3}
+  - _primaryActionIcon: {instanceID: 0}
+  - _secondaryActionIcon: {instanceID: 0}
+  - _changeInteractionUpIcon: {instanceID: 0}
+  - _changeInteractionDownIcon: {instanceID: 0}
+  - _changeInteractionValueUpIcon: {instanceID: 0}
+  - _changeInteractionValueDownIcon: {instanceID: 0}
+  - _pauseMenu: {instanceID: 0}
+  - _tabbedMenu: {instanceID: 0}
+  - _interactionsWheel: {instanceID: 0}
+  - _showInfo: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
