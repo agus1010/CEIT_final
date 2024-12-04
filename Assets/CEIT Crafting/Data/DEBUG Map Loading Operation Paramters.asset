@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c0a8a83635dce0e4688e472a8ad2a00c, type: 3}
+  m_Name: DEBUG Map Loading Operation Paramters
+  m_EditorClassIdentifier: 
+  _options: {fileID: 11400000, guid: 727a3371841dd7a4296247a4815f838f, type: 2}
+  _addGround: 1
+  _groundHeight: 150
+  _spawnPosition: {x: 0, y: 0, z: 0}
+  _addProps: 0
+  runtimeVars: {fileID: 11400000, guid: 6cb5ece7a31e4c244ba69eb092f6dcca, type: 2}
+  _mapName: Volumen Victor sin mobiliario/Volmen de Victor 2  sin mobiliario.obj
